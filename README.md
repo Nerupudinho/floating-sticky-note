@@ -47,3 +47,6 @@ A floating sticky note application built with Electron that stays on top of all 
 - Window position is saved to your user data directory
 - The note will remember its size and position when you restart
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
